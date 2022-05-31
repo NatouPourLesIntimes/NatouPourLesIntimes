@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NatouPourLesIntimes
 - 👀 I want to program with the Riot's API
 - 🌱 I’m currently learning C#
-- 📫 You can reach me on Discord at Elegantooooo#4512
+- 📫 You can reach me on Discord at Elegantooooo#4512     //      Or mail me at xbartpc@gmail.com
